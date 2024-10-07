@@ -1,7 +1,5 @@
 import numpy as np
 
-print(np.sin(np.pi/2))
-
 print(np.cos(np.pi/2))
 
 def p1(x):
@@ -9,3 +7,6 @@ def p1(x):
 
 def m2(x):
     return 2*x
+
+def exp(x):
+    return 1 + x + x*x
