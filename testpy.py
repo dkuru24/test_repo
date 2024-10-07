@@ -9,3 +9,6 @@ def p1(x):
 
 def m2(x):
     return 2*x
+
+def dila(x, y)
+    return x +y 
